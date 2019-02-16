@@ -1,3 +1,7 @@
-import code.{Ord, Sorter}
 
-Sorter.sort(List(9, 4, 1, 8, 5, 6))(Ord.intOrd)
+
+List(9, 3, 1, 4, 2, 6).sorted
+List(9, 3, 1, 4, 2, 6).max
+
+
+
